@@ -1,6 +1,6 @@
-# flutter
+# flutter Dice Roll
 
-A new Flutter project.
+Flutter project random dice roll.
 
 This project is a starting point for a Flutter application.
 
@@ -22,7 +22,7 @@ samples, guidance on mobile development, and a full API reference.
 ```bash
 INSTALL SDK MANAGER
 
-SDK Paltforms
+SDK Platforms
 Android 13.0 ( Tiramisu )
 
 SDK Tools
@@ -37,6 +37,3 @@ Android SDK Platform-Tools
 ```bash
 Run > Start Debugging
 ```
-
-
-ENJOY YOUR APPLICATION ✌️
